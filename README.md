@@ -4,6 +4,4 @@ This is my attempt at making a linear regression model. It basically predicts th
 I have used a for loop that runs the model 30 times to get the best line. It then saves the best line in a pickle file and then that can be used to predict for a new test. 
 # Data Set Used
 I used the student performance dataset available form the UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/student+performance
-0 comments on commit ce2c35e
-@dipankarmaharana
  
